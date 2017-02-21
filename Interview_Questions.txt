@@ -1,0 +1,332 @@
+Interview Questions:
+
+Arrays and Strings
+=======================================
+Anagrams ----------------------------http://newtechnobuzzz.blogspot.in/2014/07/check-if-two-strings-are-anagram-in-java.html#.VDG51fldV6  
+Reversal of Strings------------------------------------------http://codereview.stackexchange.com/questions/42981/reverse-a-string-in-java
+All characters in a String is unique------------------------http://stackoverflow.com/questions/19484406/detecting-if-a-string-has-unique-characters-comparing-my-solution-to-cracking
+to reverse a String in Java----------------------------------http://www.programmingsimplified.com/java/source-code/java-program-reverse-string    
+                                                             http://examples.javacodegeeks.com/core-java/lang/string/java-string-reverse-example/
+Reverse a String using Recursion--------------------------http://stackoverflow.com/questions/9723912/reversing-a-string-with-recursion-in-java
+to replace vowels in a String--------------------http://stackoverflow.com/questions/19329307/writing-a-method-to-remove-vowels-in-a-java-string
+Remove duplicates from a String------------------------------http://www.geeksforgeeks.org/remove-all-duplicates-from-the-input-string/  
+                                                             http://codereview.stackexchange.com/questions/24641/remove-duplicates-from-string-without-using-additional-buffer
+String are a rotation of each other--------------------------CCI http://ideone.com/
+All permutations of a string---------------------------------http://crunchify.com/how-to-find-all-permutations-of-a-string-in-java-example/
+Swapping 2 variables without using 3-------------------------a=a+b,b=a-b;a=a-b;
+Convert a String to an Integer---------------http://stackoverflow.com/questions/8893768/manually-converting-a-string-to-an-integer-in-java
+To reverse words in a Sentence-------------------http://www.guruzon.com/1/java-basics/programs/program-2-reverse-the-words-in-a-sentence
+Reverse each word in a Sentence -----------------------------http://stackoverflow.com/questions/19749789/reverse-each-word-in-a-sentence
+First Non Repeating Character---------------http://javarevisited.blogspot.com/2014/03/3-ways-to-find-first-non-repeated-character-String-programming-problem.html
+Print the Character of String in Alphabetic order------------
+First Unique Character of String----------------------------http://www.geeksforgeeks.org/given-a-string-find-its-first-non-repeating-character/
+
+
+Find the missing Number ------------------------------------http://www.geeksforgeeks.org/find-the-missing-number/
+-----------------------------------------http://stackoverflow.com/questions/3492302/easy-interview-question-got-harder-given-numbers-1-100-find-the-missing-numbe
+Factors of a Number----------------------------------------http://cboard.cprogramming.com/c-programming/123296-write-program-find-factors-any-number-entered.html
+Majority Element (n/2 occurances)----------------------------http://www.geeksforgeeks.org/majority-element/
+All elements in an Array even one is odd---------------------http://www.aliencoders.com/content/find-number-odd-number-occurrence-array)
+Find all Duplicates in Array of size N within range (0 N-1)--http://www.geeksforgeeks.org/find-duplicates-in-on-time-and-constant-extra-space/
+Merge 2 Sorted Arrays----------------------------------------http://stackoverflow.com/questions/5958169/how-to-merge-two-sorted-arrays-into-a-sorted-array
+Sum of Fiboncaii Series--------------------------------------http://cprogramming.language-tutorial.com/2012/01/program-to-find-sum-of-fibonacci-series.html
+Fibonacii Series---------------------------------------------http://www.java2novice.com/java-interview-programs/fibonacci-series/
+Fibonacii Series Recursion-----------------------------------http://stackoverflow.com/questions/8965006/java-recursive-fibonacci-sequen
+Fibonacii Series Memoization---------------------------------http://blog.informatech.cr/2013/05/08/memoized-fibonacci-numbers-with-java-8
+A number is factor of 2--------------------------------------http://www.geeksforgeeks.org/count-set-bits-in-an-integer/
+															(http://www.geeksforgeeks.org/write-one-line-c-function-to-find-whether-a-no-is-power-of-two/)
+intersection of two arrays----------------http://stackoverflow.com/questions/13270491/best-way-to-find-an-intersection-between-two-arrays
+All Duplicates in Array-----------------------------http://codereview.stackexchange.com/questions/18936/finding-repeating-numbers-in-an-array
+Replace every element with the next greatest---------------http://www.geeksforgeeks.org/replace-every-element-with-the-greatest-on-right-side/
+Second Smallest in Array----------------------------http://www.geeksforgeeks.org/to-find-smallest-and-second-smallest-element-in-an-array/
+Count the number of occurrences of X in a sorted array-------http://www.geeksforgeeks.org/count-number-of-occurrences-in-a-sorted-array/
+Turn an image by 90 degree/Turn Image by 90------------------http://www.geeksforgeeks.org/turn-an-image-by-90-degree/
+Two elements whose sum is closest to zero--------------------http://www.geeksforgeeks.org/two-elements-whose-sum-is-closest-to-zero/
+Move zeros to the end of array-------------------------------http://www.geeksforgeeks.org/move-zeroes-end-array/
+Subset Sum Problem-------------------------------------------http://www.geeksforgeeks.org/dynamic-programming-subset-sum-problem/
+Largest Subset Sum-------------------------------------------http://www.geeksforgeeks.org/largest-sum-contiguous-subarray/ (http://stackoverflow.com/questions/12165795/random-integers-in-array-find-the-greatest-sum-of-a-continuous-subset)
+Merge 2 sorted arrays with the other array has enough memory-http://www.careercup.com/question?id=2168
+Search an element in a Rotated Array-------------------------http://leetcode.com/2010/04/searching-element-in-rotated-array.html
+N-way Merge--------------------------------------------------http://www.params.me/2012/01/n-way-merge-algorithm-in-java.html
+Search a String in Sorted List of Strings--------------------CCI
+All subsets of a Set-----------------------------------------http://www.programcreek.com/2013/01/leetcode-subsets-java/
+All combinations of paranthesis------------------------------https://www.youtube.com/watch?v=_Uq1dmgZj0I
+ALl triplets that are equal to a certain sum-----------------http://www.geeksforgeeks.org/find-a-triplet-that-sum-to-a-given-value/
+Minimum Difference b/w 2 sorted arrays-----------------------http://www.careercup.com/question?id=22808663
+Use the K Largest -------------------------------------------http://www.geeksforgeeks.org/k-largestor-smallest-elements-in-an-array/
+Find All Pairs that are equal to certain sum-----------------
+http://javarevisited.blogspot.com/2014/08/how-to-find-all-pairs-in-array-of-integers-whose-sum-equal-given-number-java.html
+Merge Intervals----------------------------------------------http://www.geeksforgeeks.org/merging-intervals/
+Square Root using Binary Search------------------------------https://www.youtube.com/watch?v=XvsQ68jUc2U
+
+
+Josephus problem---------------------------------------------http://www.geeksforgeeks.org/josephus-problem-set-1-a-on-solution/
+Boolean Matrix Question--------------------------------------http://www.geeksforgeeks.org/a-boolean-matrix-question/
+Diagnol printing of a 2d matrix------------------------------http://www.geeksforgeeks.org/print-matrix-diagonally/
+print matrix in spriral form---------------------------------http://www.geeksforgeeks.org/print-a-given-matrix-in-spiral-form/
+Search a element in a Sorted 2D array------------------------CCI
+N-Queens problem---------------------------------------------CCI
+T 9 Keypad---------------------------------------------------http://blog.csdn.net/williamcs/article/details/8268544
+Data Structure for Buffer---------------------------------http://www.geeksforgeeks.org/forums/topic/a-data-structure-for-text-editor/#post-576
+
+3 way splitting of array containning 3 numbers---------------http://coders-stop.blogspot.com/2013/06/sort-array-containing-0-1-2.html
+power of a number--------------------------------------------http://www.geeksforgeeks.org/write-a-c-program-to-calculate-powxn/
+GCD of 2 numbers---------------------------------------------http://java67.blogspot.com/2012/08/java-program-to-find-gcd-of-two-numbers.html
+kth largest in an array--------------------------------------http://www.geeksforgeeks.org/k-largestor-smallest-elements-in-an-array/
+Addition of 2 large integers----------------http://codereview.stackexchange.com/questions/32954/adding-two-big-integers-represented-as-strings
+k-way Merge Sort----------------------------http://codeandconcept.blogspot.com/2012/11/k-way-merge.html
+Find all palindrones of a String-http://ajeetsingh.org/2013/11/06/algorithm-to-find-the-total-number-of-substring-palindromes-in-a-given-string/
+
+Sorting
+=======================================
+
+Selection Sort-------(http://www.java2novice.com/java-sorting-algorithms/selection-sort/)http://www.careercup.com/question?id=2168
+Selection Sort-------(http://www.java2novice.com/java-sorting-algorithms/selection-sort/)http://www.careercup.com/question?id=2168
+
+*******Wort case O(n2) and best case (n)*******below 2 algorithms
+Bubble Sort-----------(http://www.programmingsimplified.com/java/source-code/java-program-to-bubble-sort)
+Insertion Sort--------(http://www.java2novice.com/java-sorting-algorithms/insertion-sort/)
+
+O(nlognn) worst case for Merge Sort but average case for Quick Sort (whose worst case O(n2))
+Merge Sort------------http://stackoverflow.com/questions/13727030/mergesort-in-java) 
+Quick Sort------------http://gauss.ececs.uc.edu/Courses/C321/html/quicksort.java.html)
+Heap Sort----------
+Radix Sort
+Bucket Sort
+Counting Sort
+
+
+=======================================
+Applications of Trees  (root,parent,child,leaf,height,depth,ancestor,descendent,granparennt,siblings)
+***************************************
+
+1.Hierarchial Data------------File System
+2.Organizing Data-------------Quick Insertion,Deletion,Search
+3.Trie------------------------Dictionary
+4.Newtork Routing Algorithm---Tree
+
+
+Binary Tree
+**************************************
+Binary Tree------------(at the most have 2 children)
+Strict Binary Tree-----(0 or 2 children)
+Complete Binary Tree---(all levels except the last are completely filled and all nodes are as left as possible)
+Perfect Binary  Tree---(is a complete binary tree in which all levels are full)
+Balanced Binary Tree---(difference b/w height of leaf sub tree and right sub tree is not more than k(mostly 1))
+B+ Tree----------------https://www.youtube.com/watch?v=2q9UYVLSNeI
+       ----------------http://en.wikipedia.org/wiki/B%2B_tree
+
+Max no of Nodes at any level       =2*Level(depth)
+Max No of nodes of Binary Tree     =2^(no of levels/height+1)-1
+Min Height Tres	fow n nodes        =floor(log2(n))
+Max height of Tree for n nodes     =n-1 
+
+Complete Binary Tree stored as Array, for  a node  at i= i, {left child= (2*i+1)right child=(2*i+2)}
+
+Binary Search Tree (Balanced)-
+===========================================
+-Binary tree in which for each node,value of all nodes is left sub tree are lesser or eqaul and value of all nodes in the right sub tree are greater
+Search,Insertion,Deletion all take O(log n) operations
+
+Deletion of Node from BST---------------------------------------http://pages.cs.wisc.edu/~skrentny/cs367-common/readings/Binary-Search-Trees/
+BST creation insertion(Recursion and Iteration)------------http://codereview.stackexchange.com/questions/31994/creating-a-binary-search-tree
+BST Search-------------------https://www.daniweb.com/software-development/c/threads/20792/searching-and-inserting-node-in-a-binary-search-tree
+Lowest common Ancestor of 2 values in BST-----------------------http://www.geeksforgeeks.org/lowest-common-ancestor-in-a-binary-search-tree/)
+Maximum in a BST-------------------------------------(http://codereview.stackexchange.com/questions/31994/creating-a-binary-search-tree)
+Minmium in a BST-----------------------------------------------(http://www.sanfoundry.com/java-program-find-minimum-value-binary-search-tree/)
+BST or not--------------------------------------(http://www.geeksforgeeks.org/a-program-to-check-if-a-binary-tree-is-bst-or-not/)
+
+Median of BST-------------------------------------(http://codinggeeks.blogspot.com/2010/04/finding-median-or-kth-element-in-binary.html)
+BST-----K largest--------------------------------(http://www.geeksforgeeks.org/find-k-th-smallest-element-in-bst-order-statistics-in-bst/)
+BST is Symmetric-----------------------------(http://stackoverflow.com/questions/8436623/check-if-a-binary-tree-is-a-mirror-image-or-symmetric)
+Binary Search BST----------------------------------------(http://sachithdhanushka.blogspot.com/2013/08/binary-search-tree-with-in-order.html)
+Height of a BST-------------------------------------------------http://stackoverflow.com/questions/2597637/finding-height-in-binary-search-tree
+Binary Tree is Balanced(base condition ------------------------http://www.fitcoding.com/2014/04/15/how-to-check-if-a-tree-is-balanced-in-java/  (http://www.geeksforgeeks.org/how-to-determine-if-a-binary-tree-is-balanced/)
+To check if there is a path between 2 nodes---------------------CCI
+Given a sorted array create a Binary Tree with min height-------http://leetcode.com/2010/11/convert-sorted-array-into-balanced.html
+lowest common ancestor is binary tree---------------------------CCI 
+If 1 tree is a subtree or not-----------------------------------CCI
+Given a Binary Tree find all paths that sum to a value----------CCI
+evaluating a expression tree------------------------------------http://stackoverflow.com/questions/10769174/evaluating-expression-trees
+Node to Leaf Sum equal to X-------------------------------------http://www.geeksforgeeks.org/root-to-leaf-path-sum-equal-to-a-given-number/
+sum of 3 nodes in a BST is x-----------------------------------http://www.geeksforgeeks.org/find-if-there-is-a-triplet-in-bst-that-adds-to-0/
+sum of 2 nodes in BST is x-------------------http://stackoverflow.com/questions/12289949/find-two-numbers-from-bst-which-sum-to-given-number-k
+Cloning a Graph------------------------------http://www.programcreek.com/2012/12/leetcode-clone-graph-java/
+Count of Leaf Nodes--------------------------http://www.geeksforgeeks.org/write-a-c-program-to-get-count-of-leaf-nodes-in-a-binary-tree/
+Diameter of a Tree---------------------------http://www.geeksforgeeks.org/diameter-of-a-binary-tree/
+maximum sum path in BST----------------------http://www.geeksforgeeks.org/find-the-maximum-sum-path-in-a-binary-tree/
+Deepest Left Leaf NOde of a Binary Tree------http://www.geeksforgeeks.org/deepest-left-leaf-node-in-a-binary-tree/
+Cloning a BST-------------------------------
+
+
+Binary Search Tree Traversal
+=========================================
+(http://www.sanfoundry.com/java-program-find-minimum-value-binary-search-tree/)
+Preorder-----------------------VLR
+PostOrder----------------------LRV
+InOrder------------------------LVR(to check BST or not and also to get the ascending order of the BST)
+Preorder using Iteration-------http://www.geeksforgeeks.org/iterative-preorder-traversal/
+Pre/In/Post Order Iteration----http://www.lixinglian.com/idea/?p=340
+
+BFS/Level oder-----------------http://www.everybrickmatters.com/2013/10/level-order-traversal-of-binary-search.html
+Depth First Search-------------pre /in / post orde traversal   USE stack( http://www.geeksforgeeks.org/iterative-preorder-traversal/)
+Zig Zag Traverssl of Tree------http://leetcode.com/2010/09/printing-binary-tree-in-zig-zag-level_18.html
+
+
+LinkedList
+=========================================
+
+Linked List is a palindrone------------------------------http://www.geeksforgeeks.org/function-to-check-if-a-singly-linked-list-is-palindrome/
+Insertion  at position n------------------------http://www.c4learn.com/data-structure/insert-node-at-middle-position-singly-linked-list/
+Deletion at position n-----------------------------------
+Traverse a Linked List in Forward using Recursion--------interchange the statment in reverse funtion
+Traverse a Linked List in Reverse using Recursion--------http://tekmarathon.com/2012/10/05/print-single-linked-list-in-reverse-order/
+Traverse a Linked List in Reverse using Iteration--------http://tekmarathon.com/2012/10/05/print-single-linked-list-in-reverse-order/
+Reverse a LinkedList using Iteration---------------------http://blog.icodejava.com/133/how-to-reverse-a-singly-linked-list-iteratively-and-recursively/
+Reverse a LinkedList using Recursion---------------------http://www.programmerinterview.com/index.php/data-structures/reverse-a-linked-list/
+Linked List Detection with the Point---------------------http://stackoverflow.com/questions/2663115/how-to-detect-a-loop-in-a-linked-list
+                                        http://chinmaylokesh.wordpress.com/2011/09/11/floyd-cycle-detection-algorithm-or-tortoise-and-hare-algorithm-for-finding-a-loop-in-a-linked-list/
+Linked List Detection Along with Removal-----------------http://stackoverflow.com/questions/5607292/interview-remove-loop-in-linked-list-java)
+Inserting into a Sorted Linked List-------http://www.geeksforgeeks.org/given-a-linked-list-which-is-sorted-how-will-you-insert-in-sorted-way/)
+Middle/Median Element of a linked List-------------http://www.geeksforgeeks.org/write-a-c-function-to-print-the-middle-of-the-linked-list/)
+Intersection point of 2 Linked List----------http://www.geeksforgeeks.org/write-a-function-to-get-the-intersection-point-of-two-linked-lists/
+Remove Duplicates in a unsorted LinkedList---------------http://www.geeksforgeeks.org/remove-duplicates-from-an-unsorted-linked-list/
+To find the last n elements of the LinkedList---http://stackoverflow.com/questions/20205732/recursively-find-nth-to-last-element-in-linked-list
+To delete a node in Linked List given access to tat node-http://www.geeksforgeeks.org/in-a-linked-list-given-only-a-pointer-to-a-node-to-be-deleted-in-a-singly-linked-list-how-do-you-delete-it/
+to add 2 numbers rep by single linked list--------------http://www.geeksforgeeks.org/add-two-numbers-represented-by-linked-lists/
+Pair wise Linked List---------------------http://www.geeksforgeeks.org/pairwise-swap-elements-of-a-given-linked-list/
+Rotate a Linked List----------------------http://www.geeksforgeeks.org/rotate-a-linked-list/
+
+Deep Copy of Linked List-----------------http://www.geeksforgeeks.org/a-linked-list-with-next-and-arbit-pointer/
+										 http://ideone.com/z46env
+Queue
+=======================================================
+Circular Queue---------------------------	
+
+
+
+Stacks
+=======================================================
+Evaluating Postfix Expression---------------http://datastructure-using-java.blogspot.com/2010/02/write-java-program-to-evaluate-postfix.html
+Evaluating Prefix Expression----------------------------reverse of the above
+Converting from Infix to Postfix------------------------http://www.tutorialspoint.com/javaexamples/data_intopost.htm
+Implement 3 stacks using 1 Array------------------------CCI
+Sort Stack in Ascending ORder---------------------------http://www.careercup.com/question?id=3794386
+
+
+Queue using 2 Stacks-------------------------------------http://stackoverflow.com/questions/69192/how-to-implement-a-queue-using-two-stacks)
+Stack using 2 Queue------------------(http://www.java-forums.org/new-java/5787-implementing-stack-using-two-queues.html)
+Stack Using Linked List----------------------------------http://www.sanfoundry.com/java-program-implement-stack-using-linked-list/)
+
+
+Heap 
+=======================================================
+
+Heap -------------------------------------------https://www.youtube.com/watch?v=-6-xKgLOZPM
+
+Insetion -------O(logn)
+Deletion--------O(logn)
+Construction----O(nlogn)-----2 Heaps can be different for same set of numbers
+Haap Sort-------O(nlogn)------http://codereview.stackexchange.com/questions/32606/implementation-of-heap-sort
+
+
+Java
+======================================
+
+Difference between HashMap and HashTable------------http://blog.manishchhabra.com/2012/08/the-5-main-differences-betwen-hashmap-and-hashtable/
+Difference between String and StringBuilder and StringBuffer------http://javarevisited.blogspot.com/2011/07/string-vs-stringbuffer-vs-stringbuilder.html
+Why String is Immutable In Java-----------------------------------http://javarevisited.blogspot.sg/2010/10/why-string-is-immutable-in-java.html
+How HashMap works in Java-----------------------------------------http://javarevisited.blogspot.com/2011/02/how-hashmap-works-in-java.html
+final,finally,finalize---------------------http://javarevisited.blogspot.com/2012/11/difference-between-final-finally-and-finalize-java.html
+finalize()----------------------------------------------------http://javarevisited.blogspot.sg/2012/03/finalize-method-in-java-tutorial.html
+Why Java Does not support multiple inheritance---------------http://javarevisited.blogspot.com/2011/07/why-multiple-inheritances-are-not.html
+Properties of Good Hash Function----------------------------------http://www.sparknotes.com/cs/searching/hashtables/section2.rhtml
+Abstract Class vs Interface--------------------http://www.programmerinterview.com/index.php/java-questions/interface-vs-abstract-class/
+Difference between BST and HASH ----------------------------------https://brackece.wordpress.com/2012/09/18/hash-table-vs-binary-search-tree/
+Differnce between Linked List and ArrayList------------------http://javarevisited.blogspot.com/2012/02/difference-between-linkedlist-vs.html
+Realization and Generalization--------------------http://www.coderanch.com/t/587308/java/java/Realization-Generalization-Java-Object-Oriented
+Default Encoding in Java-----------------------------------------http://stackoverflow.com/questions/4453269/encoding-of-string-in-java
+Difference between Stream and Reader-------http://stackoverflow.com/questions/4367539/what-is-the-difference-between-reader-and-inputstream
+
+Deep Copy vs Shallow Copy-----------------------------------------http://www.jusfortechies.com/java/core-java/deepcopy_and_shallowcopy.php
+Cloneable---------------------------------------------------------http://www.jusfortechies.com/java/core-java/deepcopy_and_shallowcopy.php
+Copy Constructor---------------------------------http://www.programmerinterview.com/index.php/java-questions/how-copy-constructors-work/
+Singleton Pattern-------------------------------------------------http://www.javaworld.com/article/2073352/core-java/simply-singleton.html
+Factory Pattern---------------------------------------------------http://www.tutorialspoint.com/design_pattern/factory_pattern.htm
+Garbage Collection------------------------------------------------http://javabook.compuware.com/content/memory/how-garbage-collection-works.aspx
+																  http://www.brpreiss.com/books/opus5/html/page424.html
++++++++++++++++++++++++++++++++++++++++++++
+OS
+====================================
+
+Process vs Thread------------------------------------------------http://www.programmerinterview.com/index.php/operating-systems/thread-vs-process/
+
+
+Dynamic Programming
+====================================
+KnapSack 
+Steps of Left and Right
+Coin Change porblem--------http://www.geeksforgeeks.org/dynamic-programming-set-7-coin-change/
+Subset Problem-------------http://www.geeksforgeeks.org/dynamic-programming-subset-sum-problem/
+Minimal Count of Coin Change-----https://www.youtube.com/watch?v=GafjS0FfAC0
+paths in N*N grid----------------http://stackoverflow.com/questions/9105699/algorithm-for-finding-all-paths-in-a-nxn-grid
+
+Extras
+=====================================
+Party glass problem : http://www.geeksforgeeks.org/mircosoft-interview-15/
+Magic Potion: http://www.geeksforgeeks.org/microsoft-interview-set-37-sde-1/
+Solve for Square root using Binary Search Tree
+How will you implement garbage collection in C or C++: Look for mark and sweep algorithm.
+Counting inversion: http://www.geeksforgeeks.org/counting-inversions/
+String matching KMP : http://www.geeksforgeeks.org/searching-for-patterns-set-2-kmp-algorithm/
+
+Design
+====================================
+Tic Tac Toe Game-------------------------------------------------http://www.coderslexicon.com/a-beginner-tic-tac-toe-class-for-java/
+
+Generic HTML
+=====================================
+
+How does a URL work----------------------------------------------http://computer.howstuffworks.com/internet/basics/internet-infrastructure7.htm
+																 http://www.w3.org/wiki/How_does_the_Internet_work
+How does DNS Servers work----------------------------------------http://computer.howstuffworks.com/dns.htm
+SQL Injection----------------------------------------------------http://www.w3schools.com/sql/sql_injection.asp
+Security vulnerabilities-----------------------------------------http://defencely.com/blog/10-popular-ways-hackers-hack-website/
+Differnece b/w GET and POST--------------------------------------http://www.w3schools.com/tags/ref_httpmethods.asp
+REST(Respresentational State Transfer) architecture--------------https://www.servage.net/blog/2013/04/08/rest-principles-explained/
+Difference between Session and Cookie----------------------------http://stackoverflow.com/questions/359434/differences-between-cookies-and-sessions
+																 http://php.about.com/od/learnphp/qt/session_cookie.htm
+
+Trees
+==========================
+
+Trees implementation in java : http://www.openbookproject.net/thinkcs/archive/java/english/chap17.htm
+Binary search tree : http://www.sanfoundry.com/java-program-implement-binary-search-tree/
+interfaces : http://www.coderanch.com/t/465178/java/java/real-interface-java-Multiple-inheritance
+			http://www.informit.com/articles/article.aspx?p=331398&seqNum=7
+
+Linked List in java
+palindrome ------http://www.programcreek.com/2014/07/leetcode-palindrome-linked-list-java/
+Serializable and comparable interfaces in java-------http://www.javatpoint.com/Comparable-interface-in-collection-framework
+Collection framework in java------http://www.javatpoint.com/collections-in-java
+
+====(Strings Continued)====
+All permutation of a string -----http://stackoverflow.com/questions/4240080/generating-all-permutations-of-a-given-string                                 http://www.ericleschinski.com/c/java_permutations_recursion/
+Longest common subsequence -----https://www.youtube.com/watch?v=NnD96abizww              																				http://introcs.cs.princeton.edu/java/96optimization/LCS.java.html
+Longest common substring ----https://www.youtube.com/watch?v=BysNXJHzCEs&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr&index=26
+Longest palindromic substring -----https://www.youtube.com/watch?v=obBdxeCx_Qs
+find the substring of length 3 which is present in the reverse order from the string -----http://www.careercup.com/question?id=11655778
+find the start position of the largest block of repeated characters ------http://www.careercup.com/question?id=15210893
+first non repeating character in a string containing characters from all over the world  -----http://www.careercup.com/question?id=19114694
+Interleaved string : 																		http://www.careercup.com/question?id=14360665 ----solution : find all permutations of ABCD and then select only those where (indexOf(A)<indexOf(B) and indexOf(C)<indexOf(D));
+
+======Trees=====
+maximum sum path in BST --------http://www.programcreek.com/2013/02/leetcode-binary-tree-maximum-path-sum-java/
+trees problems ------https://www.youtube.com/watch?v=jQS9hVxU5k8&index=8&list=PLC3855D81E15BC990
+diameter of a tree : distance between the farthest two leaf nodes of a tree.
+To find the kth largest element in a BST we use the inorder traversal in the reverse order and print the element when the counter maintained as the firstb element of the array becomes equal to k 																		inorder(root->right,int[] count)																										count[0]++;																																if(count[0]==k)  : print the data;   																									inorder(root->left,int[] count)   -----
+To print all nodes at a given level in BST : http://www.geeksforgeeks.org/level-order-tree-traversal/
+To remove all the half nodes in  a BST : http://www.geeksforgeeks.org/given-a-binary-tree-how-do-you-remove-all-the-half-nodes/
+To check whether a BST is complete or not : http://www.geeksforgeeks.org/check-if-a-given-binary-tree-is-complete-tree-or-not/
+sum of all left leaves in a given BST : http://www.geeksforgeeks.org/find-sum-left-leaves-given-binary-tree/
+to remove paths of length < k : http://www.geeksforgeeks.org/remove-nodes-root-leaf-paths-length-k/
